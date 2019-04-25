@@ -1,1 +1,2 @@
-# iproxy_PAC
+# iProxy_PAC
+Just a PAC.
